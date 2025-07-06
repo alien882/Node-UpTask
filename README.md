@@ -1,6 +1,6 @@
 # Proyecto UpTask Node.js
 
-Aplicación web de backend de un project manager el **cual usa un crud para proyectos y tareas, autenticación y autilización para los usuarios**, ademas de contar con tecnologías como:
+Aplicación web de backend de un project manager el **cual usa un crud para proyectos y tareas, autenticación y autorización para los usuarios**, ademas de contar con tecnologías como:
 
 - **JSON Web Token**
 - **Express**
